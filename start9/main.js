@@ -11,6 +11,8 @@ document.addEventListener('DOMContentLoaded', function () {
     //         }
     //     });
     // };
+
+    
     const options = {
         root: null,
         rootMargin: "0px",
